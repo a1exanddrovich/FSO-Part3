@@ -1,0 +1,25 @@
+{
+  "name": "fsop3",
+  "version": "1.0.0",
+  "description": "empty",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "empty"
+  },
+  "keywords": [
+    "fsop3"
+  ],
+  "author": "me",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.18"
+  },
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
